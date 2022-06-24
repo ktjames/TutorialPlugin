@@ -3,3 +3,4 @@ version: '1.0.0'
 main: me.okden.TutorialPlugin.Main
 
 softdepend: [PlaceholderAPI] # If your plugin requires PlaceholderAPI, to work, use this.
+api-version: 1.19
