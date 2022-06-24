@@ -1,3 +1,5 @@
 name: TutorialPlugin
 version: '1.0.0'
 main: me.okden.TutorialPlugin.Main
+
+depend: [PlaceholderAPI] # If your plugin requires PlaceholderAPI, to work, use this.
